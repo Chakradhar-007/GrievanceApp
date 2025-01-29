@@ -80,3 +80,9 @@ The data in Firebase is structured as follows:
     }
   }
 }
+
+
+
+
+Contributions
+Feel free to fork the repository, open issues, or submit pull requests. Please ensure that you follow the code style and include appropriate comments.
