@@ -50,6 +50,9 @@ This app addresses the need for a streamlined complaint management system.  It s
 3. *Update Status:* Select a complaint and choose a new status from the available options.
 4. *Add Comment:* Add internal comments to a complaint for tracking or communication.
 
+Contributions
+Feel free to fork the repository, open issues, or submit pull requests. Please ensure that you follow the code style and include appropriate comments.
+
 ## Data Structure (Firebase)
 
 The data in Firebase is structured as follows:
@@ -82,7 +85,3 @@ The data in Firebase is structured as follows:
 }
 
 
-
-
-Contributions
-Feel free to fork the repository, open issues, or submit pull requests. Please ensure that you follow the code style and include appropriate comments.
